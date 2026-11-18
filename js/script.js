@@ -1,1 +1,2 @@
 // Scripts go in this folder. This file is empty on purpose.
+// checked in a Codespace
