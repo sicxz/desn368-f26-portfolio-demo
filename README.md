@@ -1,6 +1,6 @@
 # DESN 368 portfolio
 
-**Live site:** `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/` (put your own address here once Pages is on)
+**Live site:** https://sicxz.github.io/desn368-f26-portfolio-demo/
 
 This repository holds your homepage and every project it links to. CodePen takes a deployed Pen offline when a PRO plan ends, so anything your portfolio links to has to live here before the quarter ends.
 
@@ -22,7 +22,7 @@ Tick a box by changing `[ ]` to `[x]` in this file. Then commit.
 
 - [ ] **1. Import your CodePen 2.0 export.** Your homepage Pen, `desn368-home`, becomes `index.html` here.
 - [ ] **2. Put each file in its folder.** `style.css` goes in `css/`, images in `images/`, scripts in `js/`. Update every `href` and `src` to match.
-- [ ] **3. Switch Pages on.** Settings, then Pages, then Source: GitHub Actions. Put your live address at the top of this file.
+- [x] **3. Switch Pages on.** Settings, then Pages, then Source: GitHub Actions. Put your live address at the top of this file.
 - [ ] **4. Check the live site.** Your homepage opens at the live address with its styles and every image.
 - [ ] **5. Move the field guide in,** after you turn it in: `projects/field-guide/`.
 - [ ] **6. Build the landing page here:** `projects/landing-page/`. Its build checklist is the README in that folder.
